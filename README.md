@@ -92,8 +92,8 @@ The notebook walks through all steps:
 
 ## Team Members
 
-- **Manar Shehazi**
 - **Ahmad Fares**
+- **Manar Shehazi**
 
 ## License
 
