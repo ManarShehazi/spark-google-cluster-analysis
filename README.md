@@ -90,5 +90,12 @@ The notebook walks through all steps:
    - TensorFlow and PyTorch
 6. **Visualizations**: Histograms, bar charts, heatmaps, ROC curves
 
-## Repository Structure
+## Team Members
+
+- **Manar Shehazi**
+- **Ahmad Fares**
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
